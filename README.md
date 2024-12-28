@@ -29,8 +29,6 @@ The dataset consists of financial news tweets, pre-labeled with sentiment:
   - Validation: 20%
   - Test: 10%
 
-Dataset files are stored in the `data/` folder. Details about the source are provided in `references/dataset_source.md`.
-
 ## Results
 - **Best Model**: DistilBERT fine-tuned on financial news tweets.
 - **Performance Metrics**:
