@@ -37,7 +37,7 @@ The dataset consists of financial news tweets, pre-labeled with sentiment:
 
 ## File Descriptions
 - **`fine_tune_distilbert.ipynb`**: Colab notebook to fine-tune DistilBERT and evaluate the model on test data.
-- **`inference_gui.py`**: Streamlit application for real-time sentiment predictions.
+- **`inference_gui.py`**: application for real-time sentiment predictions.
 ## Instructions to Run
 ### 1. Clone the Repository
 ```bash
